@@ -2,7 +2,7 @@
 
 This project includes a Docker Compose template to deploy:
 
-* Alfresco Repository using S3 for storage (https://s3.console.aws.amazon.com/s3/buckets/search-services-search-2616?region=eu-west-1)
+* Alfresco Repository using S3 for storage
 * Search Services 1.4.3
 * Search Services 2.0.1
 
